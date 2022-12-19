@@ -1,5 +1,5 @@
 
-# ret
+# ReadMe file generator
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -13,25 +13,25 @@
 - [License](#License)
 
 ## Description
-efd
+Generates the readme file for the projects
 
 ## Installation
-dfer
+We have to go to Bash and run node index.js command
     
 ## Usage
-dgdf
+Helpful in creating Readme file, so that user can concentrate on coding
     
 ## Contribution
-dger 
+Currently n/a 
 
 ## Instructions
-dge
+Currently n/a
     
 
 ## Questions
 
-GitHub: fer
-Email: fdr
+GitHub: Ravneet0112@github.com
+Email: ravneet.sammewali01@gmail.com
 
 ## License
 Licensed under the [MIT](https://choosealicense.com/licenses/mit/) license
