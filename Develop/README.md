@@ -21,12 +21,6 @@ We have to go to Bash and run node index.js command
 ## Usage
 Helpful in creating Readme file, so that user can concentrate on coding
     
-## Contribution
-Currently n/a 
-
-## Instructions
-Currently n/a
-    
 
 ## Questions
 
